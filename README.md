@@ -1,4 +1,4 @@
-![Alt text](https://github.com/D-WILLI/D-WILLI/blob/main/Diamond%20Williams-2.png?raw=true)
+![Alt text](https://github.com/D-WILLI/D-WILLI/blob/main/Diamond%20Williams-3.png?raw=true)
 
 
 
