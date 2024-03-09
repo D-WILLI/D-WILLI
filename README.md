@@ -1,6 +1,5 @@
-### Hi there 👋
+![Alt text](https://github.com/D-WILLI/D-WILLI/blob/main/Diamond%20Williams.png?raw=true))
 
-![alt text]( )
 
 
 <!--
