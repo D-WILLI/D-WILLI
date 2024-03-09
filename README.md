@@ -8,7 +8,7 @@ HTML &#x2022 CSS &#x2022 JavaScript &#x2022 React.js &#x2022 Express.js &#x2022 
 <h2> Connect with Me </h2>
 <ul>
   <li><strong>Linked In :</strong> https://www.linkedin.com/in/diamondwilliamsdev/ </li>
-  <li><strong>Blog :</strong></li>
+  <li><strong>Blog :</strong> https://bitofsparkledot.blog </li>
 </ul>
 
 <!--
