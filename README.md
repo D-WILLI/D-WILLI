@@ -1,4 +1,5 @@
-![Alt text](https://github.com/D-WILLI/D-WILLI/blob/main/Diamond%20Williams-3.png?raw=true)
+![Alt text](https://github.com/D-WILLI/D-WILLI/blob/main/hi%20i%20am.png?raw=true)
+<h3> ✨ A BIT ABOUT ME ✨ </h3>
 
 
 
