@@ -6,10 +6,7 @@ HTML &#x2022 CSS &#x2022 JavaScript &#x2022 React.js &#x2022 Express.js &#x2022 
 <h2> Skills </h2>
 
 <h2> Connect with Me </h2>
-<ul>
-  <li><strong>Linked In :</strong> https://www.linkedin.com/in/diamondwilliamsdev/ </li>
-  <li><strong>Blog :</strong> https://bitofsparkledot.blog </li>
-</ul>
+<img href="https://www.linkedin.com/in/diamondwilliamsdev/" src="https://github.com/D-WILLI/D-WILLI/blob/main/LI-In-Bug.png?raw=true" height="30">
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")]()
+
 
