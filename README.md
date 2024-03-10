@@ -6,7 +6,7 @@ HTML &#x2022 CSS &#x2022 JavaScript &#x2022 React.js &#x2022 Express.js &#x2022 
 <h2> Skills </h2>
 
 <h2> Connect with Me </h2>
-<img src="https://github.com/D-WILLI/D-WILLI/blob/main/LI-In-Bug.png?raw=true" href="https://www.linkedin.com/in/diamondwilliamsdev/" height="30">
+<img href="linkedin.com <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"> </img>
 
 
 
